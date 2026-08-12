@@ -16,7 +16,7 @@
   },
   "devDependencies": {
     "@types/bun": "latest",
-    "oxfmt": "^0.59.0"
+    "oxfmt": "^0.62.0"
   },
   "peerDependencies": {
     "typescript": "^5"
